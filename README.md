@@ -1,6 +1,4 @@
-# Assignment 3.1
-
-- Everything mentioned in the assignment has been implemented.
+# Clash of Clans
 - **Bonus** :
     - King’s Leviathan Axe has also been implemented.
     - Dragon Character has been added, it can fly over walls.
